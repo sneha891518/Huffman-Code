@@ -1,1 +1,1 @@
-The project involved the implementation of the Huffman Coding algorithm, which is a lossless data compression technique widely used to reduce the size of data files. The algorithm utilizes data structures such as trees and linked lists to achieve efficient compression.
+The project involved the implementation of the Huffman Coding algorithm, which is a lossless data compression technique used to reduce the size of data files. The algorithm utilizes data structures such as trees and linked lists to achieve efficient compression.
